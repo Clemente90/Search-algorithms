@@ -1,2 +1,2 @@
 # Search-algorithms
-IPython Notebook for learning/experimenting with search.
+A personnal IPython Notebook for learning/experimenting with search.  Also a means to learn Git & GitHub.
